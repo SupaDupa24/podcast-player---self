@@ -9,7 +9,7 @@ export default function SiteLogo({size = 'regular'}) {
       <div className="c-site-logo__img">
         <Logo />
       </div>
-      <div className="c-site-logo__text">Podcasts</div>
+      <div className="c-site-logo__text">My-Title</div>
     </div>
   );
 }
